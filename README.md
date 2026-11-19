@@ -106,7 +106,7 @@ Experienced in leading global technology initiatives, driving Agile practices, i
 ## Connect With Me
  
 - LinkedIn: https://www.linkedin.com/in/sweety-singh
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/kusweety
  
 ---
  

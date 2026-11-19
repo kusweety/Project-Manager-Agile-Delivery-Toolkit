@@ -8,34 +8,15 @@ This repository reflects my experience leading cross-functional teams in deliver
  
 Whether you're a Project Manager, Scrum Master, Delivery Lead, QA Manager, or Agile Practitioner, these resources can help streamline planning, execution, governance, and stakeholder communication.
 
- 📦 Project-Manager-Agile-Delivery-Toolkit
-│
-├── 📄 README.md
-│
-├── 📁 Initiation
-│   ├── Project-Charter.md
-│   ├── Business-Case.md
-│   └── Stakeholder-Register.md
-│
-├── 📁 Planning
-│   ├── Project-Plan.md
-│   ├── Risk-Register.md
-│   └── Communication-Plan.md
-│
-├── 📁 Delivery
-│   ├── RAID-Log.md
-│   ├── Action-Item-Tracker.md
-│   ├── Project-Status-Report.md
-│   └── Milestone-Tracker.md
-│
-├── 📁 Closure
-│   ├── Lessons-Learned.md
-│   └── Project-Closure-Report.md
-│
-└── 📁 AI-Prompts
-    ├── Executive-Status-Report-Prompt.md
-    ├── Risk-Analysis-Prompt.md
-    └── Meeting-Summary-Prompt.md
+## Repository Contents
+
+### Initiation
+- Project Charter
+- Business Case
+- Stakeholder Register
+
+### Planning
+-
  
 ## Connect With Me
  

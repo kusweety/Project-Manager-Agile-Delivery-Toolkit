@@ -112,9 +112,4 @@ Experienced in leading global technology initiatives, driving Agile practices, i
  
 ### If you find these templates useful, feel free to star the repository and connect with me on LinkedIn.
 
-Next step: Create 3 folders in this repository:
 
-Plain Text
-/docs
-/templates
-/ai-prompts
